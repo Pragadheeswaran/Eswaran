@@ -1,7 +1,8 @@
-public class helloworld
+public class CaughtSemantic
 {
-  public static void main(String[] args) {
-        System.out.println("Hello ");
- //creating object
-  }
+public static void main(String[] args)
+{
+int myInt;
+System.out.println(myInt);
+}
 }
